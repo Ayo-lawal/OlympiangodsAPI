@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OlympiangodsAPI", "OlympiangodsAPI\OlympiangodsAPI.csproj", "{13176F01-1D6D-4C43-ABC4-3494EBE251E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{13176F01-1D6D-4C43-ABC4-3494EBE251E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13176F01-1D6D-4C43-ABC4-3494EBE251E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13176F01-1D6D-4C43-ABC4-3494EBE251E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13176F01-1D6D-4C43-ABC4-3494EBE251E8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {167B2119-08C6-4A01-ACA7-DA6F9579D561}
+	EndGlobalSection
+EndGlobal
